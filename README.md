@@ -2,7 +2,10 @@
   <img style="height: 128px; width: auto" src="https://github.com/s0t7x/EldenDing/blob/master/icon.ico?raw=true" /><br/>
   「EldenRing v1.02」PC版のアイテムスポナー
 </h1>
-<h3 align="center">EldenDing - EldenRing Item Spawner</h3>
+<h3 align="center">
+  <a href="https://www.buymeacoffee.com/s0t7x" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a><br/>
+  EldenDing - EldenRing Item Spawner
+</h3>
 
 <div align="center" style="width:80%">
 <img src="https://github.com/s0t7x/EldenDing/blob/master/eldenDingDemo.gif?raw=true" />
