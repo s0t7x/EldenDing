@@ -1,0 +1,4 @@
+﻿  Reading Qt configuration (C:/Qt/5.14.1/msvc2017_64/bin/qmake)
+  EldenDing.cpp
+c:\users\michael\source\repos\eldending\eldending\eldending.cpp(78): warning C4838: Konvertierung von "int" zu "char" erfordert eine einschränkende Konvertierung
+  EldenDing.vcxproj -> C:\Users\Michael\source\repos\EldenDing\x64\Debug\EldenDing.exe
